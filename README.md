@@ -1,4 +1,3 @@
-Descrição do Projeto
 Este repositório contém a implementação da função newOperator, um código inspirado em uma questão de lógica de um processo seletivo. A função realiza operações específicas em números inteiros e foi desenvolvida como parte de um desafio de codificação.
 
 Origem do Código
